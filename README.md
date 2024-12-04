@@ -13,7 +13,6 @@ Use the following command to clone the repository:
 Copy code
 git clone https://github.com/<your-username>/<your-repository-name>.git
 Navigate to the project directory:
-
 Copy code
 cd <your-repository-name>
 
