@@ -8,7 +8,7 @@ Follow these instructions to set up and run the application on your local machin
 
 1. Prerequisites
 Ensure the following software is installed on your machine:
-Node.js 
+Node.js ,
 Git 
 
 2. Clone the Repository
@@ -19,10 +19,8 @@ cd <your-repository-name>
 
 3. Install Dependencies
 Install all the required dependencies using npm or yarn:
-npm install
+npm install , 
 npm install @reduxjs/toolkit react-redux
 
 4. Start the Application
-Run the application in development mode:
-Copy code
-npm run dev
+Run the application in development mode: npm run dev
